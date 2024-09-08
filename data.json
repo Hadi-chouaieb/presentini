@@ -7,14 +7,14 @@
         "state" : "https://prixpre.netlify.app/new.png"
     },
     {
-        "state" : ""
+        "state" : "",
         "prix":"https://prixpre.netlify.app/50dt.png",
         "nom": "Model 2",
         "video": "https://www.youtube.com/embed/bMo27QdeMyE?si=zwNYbYCDtWg_qKqo",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0QiYhNRMKbxIgi8AO8B0UkqzdqKMM56RUew&s"
     },
     {
-        "state" : "https://prixpre.netlify.app/new.png"
+        "state" : "https://prixpre.netlify.app/new.png",
         "prix":"https://prixpre.netlify.app/80dt.png",
         "nom": "Model 3",
         "video": "https://www.youtube.com/embed/3jMwzjzHRcM?si=8ZrM27c06CT_b9h3",
