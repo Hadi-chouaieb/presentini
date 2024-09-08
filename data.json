@@ -3,16 +3,18 @@
         "prix":"https://prixpre.netlify.app/30dt.png",
         "nom": "Model 1",
         "video": "https://www.youtube.com/embed/3jMwzjzHRcM?si=0dfRamRhcHfxEOOZ",
-        "image": "https://img.freepik.com/free-vector/minimal-white-style-video-player-template-design_1017-25481.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1725753600&semt=ais_hybrid"
-        
+        "image": "https://img.freepik.com/free-vector/minimal-white-style-video-player-template-design_1017-25481.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1725753600&semt=ais_hybrid",
+        "state" : "https://prixpre.netlify.app/new.png"
     },
     {
+        "state" : ""
         "prix":"https://prixpre.netlify.app/50dt.png",
         "nom": "Model 2",
         "video": "https://www.youtube.com/embed/bMo27QdeMyE?si=zwNYbYCDtWg_qKqo",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0QiYhNRMKbxIgi8AO8B0UkqzdqKMM56RUew&s"
     },
     {
+        "state" : "https://prixpre.netlify.app/new.png"
         "prix":"https://prixpre.netlify.app/80dt.png",
         "nom": "Model 3",
         "video": "https://www.youtube.com/embed/3jMwzjzHRcM?si=8ZrM27c06CT_b9h3",
