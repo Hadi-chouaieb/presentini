@@ -1,4 +1,11 @@
 [
+      {
+        "prix":"",
+        "nom": "PRESENTINI",
+        "video": "https://youtu.be/n_Srfhrs31Q",
+        "image": "https://img.freepik.com/free-vector/minimal-white-style-video-player-template-design_1017-25481.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1725753600&semt=ais_hybrid",
+        "state" : ""
+    },
     {
         "prix":"https://prixpre.netlify.app/30dt.png",
         "nom": "Model 1",
